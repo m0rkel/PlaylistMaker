@@ -7,6 +7,9 @@
     <dimen name="button_margin_bottom">18dp</dimen>
     <dimen name="icon_size">24dp</dimen>
 
+    <dimen name="settings_button_height">61dp</dimen>
+    <dimen name="text_padding_left">16dp</dimen>
+
 
     <dimen name="text_size_mini">16sp</dimen>
 
